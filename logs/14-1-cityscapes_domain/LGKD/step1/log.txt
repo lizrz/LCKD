@@ -1,0 +1,6 @@
+[12/11 20:38:47] LGKD INFO: [!] starting logging at directory ./logs/14-1-cityscapes_domain/LGKD/step1
+[12/11 20:38:47] LGKD INFO: Training step 1 with lr 0.001.
+[12/11 20:38:47] LGKD INFO: Dataset: cityscapes_domain, Train set: 75, Val set: 19, Test set: 513, n_classes 15
+[12/11 20:38:47] LGKD INFO: Total batch size is 16
+[12/11 20:38:47] LGKD INFO: Backbone: swin_b
+[12/11 20:38:48] LGKD INFO: [!] Model made with pre-trained

@@ -1,0 +1,308 @@
+[12/10 22:08:10] LGKD INFO: [!] starting logging at directory ./logs/11-1-cityscapes_domain/PLOP/step7
+[12/10 22:08:10] LGKD INFO: Training step 7 with lr 0.001.
+[12/10 22:08:10] LGKD INFO: Dataset: cityscapes_domain, Train set: 97, Val set: 25, Test set: 595, n_classes 18
+[12/10 22:08:10] LGKD INFO: Total batch size is 12
+[12/10 22:08:10] LGKD INFO: Backbone: swin_b
+[12/10 22:08:11] LGKD INFO: [!] Model made with pre-trained
+[12/10 22:08:16] LGKD INFO: [!] Previous model loaded from checkpoints/step//11-1-cityscapes_domain_PLOP_6.pth
+[12/10 22:08:16] LGKD INFO: Pseudo labeling is: None
+[12/10 22:08:16] LGKD INFO: Epoch 0, lr = 0.001000
+[12/10 22:08:36] LGKD INFO: Epoch 0, Class Loss=0.24912258982658386, Reg Loss=0.0
+[12/10 22:08:36] LGKD INFO: End of Epoch 0/50, Average Loss=0.24912258982658386, Class Loss=0.24912258982658386, Reg Loss=0.0
+[12/10 22:08:36] LGKD INFO: Pseudo labeling is: None
+[12/10 22:08:36] LGKD INFO: Epoch 1, lr = 0.000982
+[12/10 22:08:56] LGKD INFO: Epoch 1, Class Loss=0.23685459792613983, Reg Loss=0.0
+[12/10 22:08:56] LGKD INFO: End of Epoch 1/50, Average Loss=0.23685459792613983, Class Loss=0.23685459792613983, Reg Loss=0.0
+[12/10 22:08:56] LGKD INFO: Pseudo labeling is: None
+[12/10 22:08:56] LGKD INFO: Epoch 2, lr = 0.000964
+[12/10 22:09:15] LGKD INFO: Epoch 2, Class Loss=0.24294382333755493, Reg Loss=0.0
+[12/10 22:09:15] LGKD INFO: End of Epoch 2/50, Average Loss=0.24294382333755493, Class Loss=0.24294382333755493, Reg Loss=0.0
+[12/10 22:09:16] LGKD INFO: Pseudo labeling is: None
+[12/10 22:09:16] LGKD INFO: Epoch 3, lr = 0.000946
+[12/10 22:09:35] LGKD INFO: Epoch 3, Class Loss=0.23682574927806854, Reg Loss=0.0
+[12/10 22:09:35] LGKD INFO: End of Epoch 3/50, Average Loss=0.23682574927806854, Class Loss=0.23682574927806854, Reg Loss=0.0
+[12/10 22:09:35] LGKD INFO: Pseudo labeling is: None
+[12/10 22:09:35] LGKD INFO: Epoch 4, lr = 0.000928
+[12/10 22:09:55] LGKD INFO: Epoch 4, Class Loss=0.2365959882736206, Reg Loss=0.0
+[12/10 22:09:55] LGKD INFO: End of Epoch 4/50, Average Loss=0.2365959882736206, Class Loss=0.2365959882736206, Reg Loss=0.0
+[12/10 22:09:55] LGKD INFO: Pseudo labeling is: None
+[12/10 22:09:55] LGKD INFO: Epoch 5, lr = 0.000910
+[12/10 22:10:15] LGKD INFO: Epoch 5, Class Loss=0.23193861544132233, Reg Loss=0.0
+[12/10 22:10:15] LGKD INFO: End of Epoch 5/50, Average Loss=0.23193861544132233, Class Loss=0.23193861544132233, Reg Loss=0.0
+[12/10 22:10:15] LGKD INFO: Pseudo labeling is: None
+[12/10 22:10:15] LGKD INFO: Epoch 6, lr = 0.000891
+[12/10 22:10:35] LGKD INFO: Epoch 6, Class Loss=0.24282118678092957, Reg Loss=0.0
+[12/10 22:10:35] LGKD INFO: End of Epoch 6/50, Average Loss=0.24282118678092957, Class Loss=0.24282118678092957, Reg Loss=0.0
+[12/10 22:10:35] LGKD INFO: Pseudo labeling is: None
+[12/10 22:10:35] LGKD INFO: Epoch 7, lr = 0.000873
+[12/10 22:10:55] LGKD INFO: Epoch 7, Class Loss=0.23832429945468903, Reg Loss=0.0
+[12/10 22:10:55] LGKD INFO: End of Epoch 7/50, Average Loss=0.23832429945468903, Class Loss=0.23832429945468903, Reg Loss=0.0
+[12/10 22:10:55] LGKD INFO: Pseudo labeling is: None
+[12/10 22:10:55] LGKD INFO: Epoch 8, lr = 0.000855
+[12/10 22:11:14] LGKD INFO: Epoch 8, Class Loss=0.2378300279378891, Reg Loss=0.0
+[12/10 22:11:14] LGKD INFO: End of Epoch 8/50, Average Loss=0.2378300279378891, Class Loss=0.2378300279378891, Reg Loss=0.0
+[12/10 22:11:14] LGKD INFO: Pseudo labeling is: None
+[12/10 22:11:14] LGKD INFO: Epoch 9, lr = 0.000836
+[12/10 22:11:34] LGKD INFO: Epoch 9, Class Loss=0.23323266208171844, Reg Loss=0.0
+[12/10 22:11:34] LGKD INFO: End of Epoch 9/50, Average Loss=0.23323266208171844, Class Loss=0.23323266208171844, Reg Loss=0.0
+[12/10 22:11:34] LGKD INFO: Pseudo labeling is: None
+[12/10 22:11:34] LGKD INFO: Epoch 10, lr = 0.000818
+[12/10 22:11:54] LGKD INFO: Epoch 10, Class Loss=0.23550133407115936, Reg Loss=0.0
+[12/10 22:11:54] LGKD INFO: End of Epoch 10/50, Average Loss=0.23550133407115936, Class Loss=0.23550133407115936, Reg Loss=0.0
+[12/10 22:11:54] LGKD INFO: Pseudo labeling is: None
+[12/10 22:11:54] LGKD INFO: Epoch 11, lr = 0.000800
+[12/10 22:12:14] LGKD INFO: Epoch 11, Class Loss=0.2346174418926239, Reg Loss=0.0
+[12/10 22:12:14] LGKD INFO: End of Epoch 11/50, Average Loss=0.2346174418926239, Class Loss=0.2346174418926239, Reg Loss=0.0
+[12/10 22:12:14] LGKD INFO: Pseudo labeling is: None
+[12/10 22:12:14] LGKD INFO: Epoch 12, lr = 0.000781
+[12/10 22:12:33] LGKD INFO: Epoch 12, Class Loss=0.23372724652290344, Reg Loss=0.0
+[12/10 22:12:33] LGKD INFO: End of Epoch 12/50, Average Loss=0.23372724652290344, Class Loss=0.23372724652290344, Reg Loss=0.0
+[12/10 22:12:33] LGKD INFO: Pseudo labeling is: None
+[12/10 22:12:33] LGKD INFO: Epoch 13, lr = 0.000763
+[12/10 22:12:53] LGKD INFO: Epoch 13, Class Loss=0.2292563021183014, Reg Loss=0.0
+[12/10 22:12:53] LGKD INFO: End of Epoch 13/50, Average Loss=0.2292563021183014, Class Loss=0.2292563021183014, Reg Loss=0.0
+[12/10 22:12:53] LGKD INFO: Pseudo labeling is: None
+[12/10 22:12:53] LGKD INFO: Epoch 14, lr = 0.000744
+[12/10 22:13:13] LGKD INFO: Epoch 14, Class Loss=0.231900155544281, Reg Loss=0.0
+[12/10 22:13:13] LGKD INFO: End of Epoch 14/50, Average Loss=0.231900155544281, Class Loss=0.231900155544281, Reg Loss=0.0
+[12/10 22:13:13] LGKD INFO: Pseudo labeling is: None
+[12/10 22:13:13] LGKD INFO: Epoch 15, lr = 0.000725
+[12/10 22:13:32] LGKD INFO: Epoch 15, Class Loss=0.23453819751739502, Reg Loss=0.0
+[12/10 22:13:32] LGKD INFO: End of Epoch 15/50, Average Loss=0.23453819751739502, Class Loss=0.23453819751739502, Reg Loss=0.0
+[12/10 22:13:32] LGKD INFO: Pseudo labeling is: None
+[12/10 22:13:32] LGKD INFO: Epoch 16, lr = 0.000707
+[12/10 22:13:52] LGKD INFO: Epoch 16, Class Loss=0.24136824905872345, Reg Loss=0.0
+[12/10 22:13:52] LGKD INFO: End of Epoch 16/50, Average Loss=0.24136824905872345, Class Loss=0.24136824905872345, Reg Loss=0.0
+[12/10 22:13:52] LGKD INFO: Pseudo labeling is: None
+[12/10 22:13:52] LGKD INFO: Epoch 17, lr = 0.000688
+[12/10 22:14:11] LGKD INFO: Epoch 17, Class Loss=0.23092639446258545, Reg Loss=0.0
+[12/10 22:14:11] LGKD INFO: End of Epoch 17/50, Average Loss=0.23092639446258545, Class Loss=0.23092639446258545, Reg Loss=0.0
+[12/10 22:14:11] LGKD INFO: Pseudo labeling is: None
+[12/10 22:14:11] LGKD INFO: Epoch 18, lr = 0.000669
+[12/10 22:14:31] LGKD INFO: Epoch 18, Class Loss=0.22944766283035278, Reg Loss=0.0
+[12/10 22:14:31] LGKD INFO: End of Epoch 18/50, Average Loss=0.22944766283035278, Class Loss=0.22944766283035278, Reg Loss=0.0
+[12/10 22:14:31] LGKD INFO: Pseudo labeling is: None
+[12/10 22:14:31] LGKD INFO: Epoch 19, lr = 0.000650
+[12/10 22:14:50] LGKD INFO: Epoch 19, Class Loss=0.2249351292848587, Reg Loss=0.0
+[12/10 22:14:50] LGKD INFO: End of Epoch 19/50, Average Loss=0.2249351292848587, Class Loss=0.2249351292848587, Reg Loss=0.0
+[12/10 22:14:50] LGKD INFO: Pseudo labeling is: None
+[12/10 22:14:50] LGKD INFO: Epoch 20, lr = 0.000631
+[12/10 22:15:10] LGKD INFO: Epoch 20, Class Loss=0.225166916847229, Reg Loss=0.0
+[12/10 22:15:10] LGKD INFO: End of Epoch 20/50, Average Loss=0.225166916847229, Class Loss=0.225166916847229, Reg Loss=0.0
+[12/10 22:15:10] LGKD INFO: Pseudo labeling is: None
+[12/10 22:15:10] LGKD INFO: Epoch 21, lr = 0.000612
+[12/10 22:15:30] LGKD INFO: Epoch 21, Class Loss=0.23353153467178345, Reg Loss=0.0
+[12/10 22:15:30] LGKD INFO: End of Epoch 21/50, Average Loss=0.23353153467178345, Class Loss=0.23353153467178345, Reg Loss=0.0
+[12/10 22:15:30] LGKD INFO: Pseudo labeling is: None
+[12/10 22:15:30] LGKD INFO: Epoch 22, lr = 0.000593
+[12/10 22:15:50] LGKD INFO: Epoch 22, Class Loss=0.2319725602865219, Reg Loss=0.0
+[12/10 22:15:50] LGKD INFO: End of Epoch 22/50, Average Loss=0.2319725602865219, Class Loss=0.2319725602865219, Reg Loss=0.0
+[12/10 22:15:50] LGKD INFO: Pseudo labeling is: None
+[12/10 22:15:50] LGKD INFO: Epoch 23, lr = 0.000574
+[12/10 22:16:09] LGKD INFO: Epoch 23, Class Loss=0.23062005639076233, Reg Loss=0.0
+[12/10 22:16:09] LGKD INFO: End of Epoch 23/50, Average Loss=0.23062005639076233, Class Loss=0.23062005639076233, Reg Loss=0.0
+[12/10 22:16:09] LGKD INFO: Pseudo labeling is: None
+[12/10 22:16:09] LGKD INFO: Epoch 24, lr = 0.000555
+[12/10 22:16:29] LGKD INFO: Epoch 24, Class Loss=0.2336566001176834, Reg Loss=0.0
+[12/10 22:16:29] LGKD INFO: End of Epoch 24/50, Average Loss=0.2336566001176834, Class Loss=0.2336566001176834, Reg Loss=0.0
+[12/10 22:16:29] LGKD INFO: Pseudo labeling is: None
+[12/10 22:16:29] LGKD INFO: Epoch 25, lr = 0.000536
+[12/10 22:16:48] LGKD INFO: Epoch 25, Class Loss=0.23447997868061066, Reg Loss=0.0
+[12/10 22:16:48] LGKD INFO: End of Epoch 25/50, Average Loss=0.23447997868061066, Class Loss=0.23447997868061066, Reg Loss=0.0
+[12/10 22:16:48] LGKD INFO: Pseudo labeling is: None
+[12/10 22:16:48] LGKD INFO: Epoch 26, lr = 0.000517
+[12/10 22:17:08] LGKD INFO: Epoch 26, Class Loss=0.2258346825838089, Reg Loss=0.0
+[12/10 22:17:08] LGKD INFO: End of Epoch 26/50, Average Loss=0.2258346825838089, Class Loss=0.2258346825838089, Reg Loss=0.0
+[12/10 22:17:08] LGKD INFO: Pseudo labeling is: None
+[12/10 22:17:08] LGKD INFO: Epoch 27, lr = 0.000497
+[12/10 22:17:28] LGKD INFO: Epoch 27, Class Loss=0.2344893217086792, Reg Loss=0.0
+[12/10 22:17:28] LGKD INFO: End of Epoch 27/50, Average Loss=0.2344893217086792, Class Loss=0.2344893217086792, Reg Loss=0.0
+[12/10 22:17:28] LGKD INFO: Pseudo labeling is: None
+[12/10 22:17:28] LGKD INFO: Epoch 28, lr = 0.000478
+[12/10 22:17:47] LGKD INFO: Epoch 28, Class Loss=0.22983360290527344, Reg Loss=0.0
+[12/10 22:17:47] LGKD INFO: End of Epoch 28/50, Average Loss=0.22983360290527344, Class Loss=0.22983360290527344, Reg Loss=0.0
+[12/10 22:17:47] LGKD INFO: Pseudo labeling is: None
+[12/10 22:17:47] LGKD INFO: Epoch 29, lr = 0.000458
+[12/10 22:18:07] LGKD INFO: Epoch 29, Class Loss=0.228939026594162, Reg Loss=0.0
+[12/10 22:18:07] LGKD INFO: End of Epoch 29/50, Average Loss=0.228939026594162, Class Loss=0.228939026594162, Reg Loss=0.0
+[12/10 22:18:07] LGKD INFO: Pseudo labeling is: None
+[12/10 22:18:07] LGKD INFO: Epoch 30, lr = 0.000438
+[12/10 22:18:26] LGKD INFO: Epoch 30, Class Loss=0.23138488829135895, Reg Loss=0.0
+[12/10 22:18:26] LGKD INFO: End of Epoch 30/50, Average Loss=0.23138488829135895, Class Loss=0.23138488829135895, Reg Loss=0.0
+[12/10 22:18:26] LGKD INFO: Pseudo labeling is: None
+[12/10 22:18:26] LGKD INFO: Epoch 31, lr = 0.000419
+[12/10 22:18:45] LGKD INFO: Epoch 31, Class Loss=0.22153380513191223, Reg Loss=0.0
+[12/10 22:18:45] LGKD INFO: End of Epoch 31/50, Average Loss=0.22153380513191223, Class Loss=0.22153380513191223, Reg Loss=0.0
+[12/10 22:18:45] LGKD INFO: Pseudo labeling is: None
+[12/10 22:18:45] LGKD INFO: Epoch 32, lr = 0.000399
+[12/10 22:19:05] LGKD INFO: Epoch 32, Class Loss=0.2300073355436325, Reg Loss=0.0
+[12/10 22:19:05] LGKD INFO: End of Epoch 32/50, Average Loss=0.2300073355436325, Class Loss=0.2300073355436325, Reg Loss=0.0
+[12/10 22:19:05] LGKD INFO: Pseudo labeling is: None
+[12/10 22:19:05] LGKD INFO: Epoch 33, lr = 0.000379
+[12/10 22:19:25] LGKD INFO: Epoch 33, Class Loss=0.22374048829078674, Reg Loss=0.0
+[12/10 22:19:25] LGKD INFO: End of Epoch 33/50, Average Loss=0.22374048829078674, Class Loss=0.22374048829078674, Reg Loss=0.0
+[12/10 22:19:25] LGKD INFO: Pseudo labeling is: None
+[12/10 22:19:25] LGKD INFO: Epoch 34, lr = 0.000359
+[12/10 22:19:44] LGKD INFO: Epoch 34, Class Loss=0.2222347855567932, Reg Loss=0.0
+[12/10 22:19:44] LGKD INFO: End of Epoch 34/50, Average Loss=0.2222347855567932, Class Loss=0.2222347855567932, Reg Loss=0.0
+[12/10 22:19:44] LGKD INFO: Pseudo labeling is: None
+[12/10 22:19:44] LGKD INFO: Epoch 35, lr = 0.000338
+[12/10 22:20:04] LGKD INFO: Epoch 35, Class Loss=0.2276543825864792, Reg Loss=0.0
+[12/10 22:20:04] LGKD INFO: End of Epoch 35/50, Average Loss=0.2276543825864792, Class Loss=0.2276543825864792, Reg Loss=0.0
+[12/10 22:20:04] LGKD INFO: Pseudo labeling is: None
+[12/10 22:20:04] LGKD INFO: Epoch 36, lr = 0.000318
+[12/10 22:20:23] LGKD INFO: Epoch 36, Class Loss=0.22220668196678162, Reg Loss=0.0
+[12/10 22:20:23] LGKD INFO: End of Epoch 36/50, Average Loss=0.22220668196678162, Class Loss=0.22220668196678162, Reg Loss=0.0
+[12/10 22:20:23] LGKD INFO: Pseudo labeling is: None
+[12/10 22:20:23] LGKD INFO: Epoch 37, lr = 0.000297
+[12/10 22:20:42] LGKD INFO: Epoch 37, Class Loss=0.22220507264137268, Reg Loss=0.0
+[12/10 22:20:42] LGKD INFO: End of Epoch 37/50, Average Loss=0.22220507264137268, Class Loss=0.22220507264137268, Reg Loss=0.0
+[12/10 22:20:42] LGKD INFO: Pseudo labeling is: None
+[12/10 22:20:42] LGKD INFO: Epoch 38, lr = 0.000277
+[12/10 22:21:02] LGKD INFO: Epoch 38, Class Loss=0.2229568362236023, Reg Loss=0.0
+[12/10 22:21:02] LGKD INFO: End of Epoch 38/50, Average Loss=0.2229568362236023, Class Loss=0.2229568362236023, Reg Loss=0.0
+[12/10 22:21:02] LGKD INFO: Pseudo labeling is: None
+[12/10 22:21:02] LGKD INFO: Epoch 39, lr = 0.000256
+[12/10 22:21:22] LGKD INFO: Epoch 39, Class Loss=0.2198573350906372, Reg Loss=0.0
+[12/10 22:21:22] LGKD INFO: End of Epoch 39/50, Average Loss=0.2198573350906372, Class Loss=0.2198573350906372, Reg Loss=0.0
+[12/10 22:21:22] LGKD INFO: Pseudo labeling is: None
+[12/10 22:21:22] LGKD INFO: Epoch 40, lr = 0.000235
+[12/10 22:21:42] LGKD INFO: Epoch 40, Class Loss=0.2283441424369812, Reg Loss=0.0
+[12/10 22:21:42] LGKD INFO: End of Epoch 40/50, Average Loss=0.2283441424369812, Class Loss=0.2283441424369812, Reg Loss=0.0
+[12/10 22:21:42] LGKD INFO: Pseudo labeling is: None
+[12/10 22:21:42] LGKD INFO: Epoch 41, lr = 0.000214
+[12/10 22:22:01] LGKD INFO: Epoch 41, Class Loss=0.21971958875656128, Reg Loss=0.0
+[12/10 22:22:01] LGKD INFO: End of Epoch 41/50, Average Loss=0.21971958875656128, Class Loss=0.21971958875656128, Reg Loss=0.0
+[12/10 22:22:01] LGKD INFO: Pseudo labeling is: None
+[12/10 22:22:01] LGKD INFO: Epoch 42, lr = 0.000192
+[12/10 22:22:21] LGKD INFO: Epoch 42, Class Loss=0.23629242181777954, Reg Loss=0.0
+[12/10 22:22:21] LGKD INFO: End of Epoch 42/50, Average Loss=0.23629242181777954, Class Loss=0.23629242181777954, Reg Loss=0.0
+[12/10 22:22:21] LGKD INFO: Pseudo labeling is: None
+[12/10 22:22:21] LGKD INFO: Epoch 43, lr = 0.000170
+[12/10 22:22:41] LGKD INFO: Epoch 43, Class Loss=0.22396817803382874, Reg Loss=0.0
+[12/10 22:22:41] LGKD INFO: End of Epoch 43/50, Average Loss=0.22396817803382874, Class Loss=0.22396817803382874, Reg Loss=0.0
+[12/10 22:22:41] LGKD INFO: Pseudo labeling is: None
+[12/10 22:22:41] LGKD INFO: Epoch 44, lr = 0.000148
+[12/10 22:23:00] LGKD INFO: Epoch 44, Class Loss=0.22166810929775238, Reg Loss=0.0
+[12/10 22:23:00] LGKD INFO: End of Epoch 44/50, Average Loss=0.22166810929775238, Class Loss=0.22166810929775238, Reg Loss=0.0
+[12/10 22:23:01] LGKD INFO: Pseudo labeling is: None
+[12/10 22:23:01] LGKD INFO: Epoch 45, lr = 0.000126
+[12/10 22:23:20] LGKD INFO: Epoch 45, Class Loss=0.22314807772636414, Reg Loss=0.0
+[12/10 22:23:20] LGKD INFO: End of Epoch 45/50, Average Loss=0.22314807772636414, Class Loss=0.22314807772636414, Reg Loss=0.0
+[12/10 22:23:20] LGKD INFO: Pseudo labeling is: None
+[12/10 22:23:20] LGKD INFO: Epoch 46, lr = 0.000103
+[12/10 22:23:40] LGKD INFO: Epoch 46, Class Loss=0.22240810096263885, Reg Loss=0.0
+[12/10 22:23:40] LGKD INFO: End of Epoch 46/50, Average Loss=0.22240810096263885, Class Loss=0.22240810096263885, Reg Loss=0.0
+[12/10 22:23:40] LGKD INFO: Pseudo labeling is: None
+[12/10 22:23:40] LGKD INFO: Epoch 47, lr = 0.000079
+[12/10 22:23:59] LGKD INFO: Epoch 47, Class Loss=0.2229139655828476, Reg Loss=0.0
+[12/10 22:23:59] LGKD INFO: End of Epoch 47/50, Average Loss=0.2229139655828476, Class Loss=0.2229139655828476, Reg Loss=0.0
+[12/10 22:23:59] LGKD INFO: Pseudo labeling is: None
+[12/10 22:23:59] LGKD INFO: Epoch 48, lr = 0.000055
+[12/10 22:24:19] LGKD INFO: Epoch 48, Class Loss=0.22849078476428986, Reg Loss=0.0
+[12/10 22:24:19] LGKD INFO: End of Epoch 48/50, Average Loss=0.22849078476428986, Class Loss=0.22849078476428986, Reg Loss=0.0
+[12/10 22:24:19] LGKD INFO: Pseudo labeling is: None
+[12/10 22:24:19] LGKD INFO: Epoch 49, lr = 0.000030
+[12/10 22:24:39] LGKD INFO: Epoch 49, Class Loss=0.22676774859428406, Reg Loss=0.0
+[12/10 22:24:39] LGKD INFO: End of Epoch 49/50, Average Loss=0.22676774859428406, Class Loss=0.22676774859428406, Reg Loss=0.0
+[12/10 22:24:39] LGKD INFO: validate on val set...
+[12/10 22:26:13] LGKD INFO: Validation, Class Loss=0.19929485023021698, Reg Loss=0.0 (without scaling)
+[12/10 22:26:13] LGKD INFO: Done validation
+[12/10 22:26:13] LGKD INFO: End of Validation 49/50, Validation Loss=0.19929485023021698, Class Loss=0.19929485023021698, Reg Loss=0.0
+[12/10 22:26:13] LGKD INFO: 
+Total samples: 595.000000
+Overall Acc: 0.923415
+Mean Acc: 0.687817
+FreqW Acc: 0.865673
+Mean IoU: 0.583210
+Class IoU:
+	class 0: 0.9656282
+	class 1: 0.63523626
+	class 2: 0.8394512
+	class 3: 0.3675711
+	class 4: 0.46549177
+	class 5: 0.07573921
+	class 6: 0.24905904
+	class 7: 0.3834785
+	class 8: 0.8503076
+	class 9: 0.5194012
+	class 10: 0.8912387
+	class 11: 0.5857056
+	class 12: 0.3759976
+	class 13: 0.815676
+	class 14: 0.65019596
+	class 15: 0.7667228
+	class 16: 0.7355158
+	class 17: 0.40237397
+	class 18: 0.5062067
+Class Acc:
+	class 0: 0.9797125
+	class 1: 0.8405554
+	class 2: 0.9310295
+	class 3: 0.5322799
+	class 4: 0.5564722
+	class 5: 0.08367746
+	class 6: 0.3090314
+	class 7: 0.4837065
+	class 8: 0.9266052
+	class 9: 0.67164904
+	class 10: 0.9513074
+	class 11: 0.73011845
+	class 12: 0.50390697
+	class 13: 0.9048052
+	class 14: 0.75113195
+	class 15: 0.8586568
+	class 16: 0.85531557
+	class 17: 0.5741255
+	class 18: 0.62442976
+
+[12/10 22:26:14] LGKD INFO: [!] Checkpoint saved for epoch 50.
+[12/10 22:26:14] LGKD INFO: Current best epoch 50, best score 0.5832104086875916
+[12/10 22:26:15] LGKD INFO: 
+Total samples: 595.000000
+Overall Acc: 0.923415
+Mean Acc: 0.687817
+FreqW Acc: 0.865673
+Mean IoU: 0.583210
+Class IoU:
+	class 0: 0.9656282
+	class 1: 0.63523626
+	class 2: 0.8394512
+	class 3: 0.3675711
+	class 4: 0.46549177
+	class 5: 0.07573921
+	class 6: 0.24905904
+	class 7: 0.3834785
+	class 8: 0.8503076
+	class 9: 0.5194012
+	class 10: 0.8912387
+	class 11: 0.5857056
+	class 12: 0.3759976
+	class 13: 0.815676
+	class 14: 0.65019596
+	class 15: 0.7667228
+	class 16: 0.7355158
+	class 17: 0.40237397
+	class 18: 0.5062067
+Class Acc:
+	class 0: 0.9797125
+	class 1: 0.8405554
+	class 2: 0.9310295
+	class 3: 0.5322799
+	class 4: 0.5564722
+	class 5: 0.08367746
+	class 6: 0.3090314
+	class 7: 0.4837065
+	class 8: 0.9266052
+	class 9: 0.67164904
+	class 10: 0.9513074
+	class 11: 0.73011845
+	class 12: 0.50390697
+	class 13: 0.9048052
+	class 14: 0.75113195
+	class 15: 0.8586568
+	class 16: 0.85531557
+	class 17: 0.5741255
+	class 18: 0.62442976
+
+[12/10 22:26:15] LGKD INFO: Closing the Writer.
