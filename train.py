@@ -19,7 +19,7 @@ from utils.loss import (NCA, BCESigmoid, BCEWithLogitsLossWithIgnoreIndex,
                         LabelGuidedKnowledgeDistillationLoss,
                         soft_crossentropy)
 
-# LGKD
+# LCSKD
 def compute_prototype(seg, features, classes):
     # 获取类别中的最大类别编号
     max_class = max(classes)
@@ -409,7 +409,7 @@ class Trainer:
 
             if self.lkd_flag:
                 if self.lgkd_flag:
-                    # 将原型计算添加到lgkd中
+                    # 将原型计算添加到lcskd中
                     pre_logits = features['pre_logits']
                     if 'cityscapes' in self.dataset:
                         cur_classes = list(range(self.nb_current_classes))
